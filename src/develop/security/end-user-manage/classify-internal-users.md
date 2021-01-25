@@ -10,7 +10,9 @@ Applies to OutSystems licenses purchased after January 2020.
 
 </div>
 
-OutSystems identifies two different types of registered end users for licensing purposes: [**Internal Users** and **External Users**](intro.md#internal-external).
+For licensing purposes, OutSystems identifies two different types of registered end users: [**Internal Users** and **External Users**](intro.md#internal-external).
+
+From a technical perspective, there are no differences between Internal Users and External Users.
 
 You can classify all Registered Users whose email address contains a specific domain (for example, `mycompany.com`) as Internal Users, while all other Registered Users are considered External Users.
 
